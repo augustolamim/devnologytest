@@ -9,6 +9,11 @@ import swaggerFile from './swagger.json';
 
 const routes = new Router();
 
+// / route
+routes.get('/', (req, res) => {
+    res.json({ message: 'Api de teste Devnology' })
+  })
+
 //Api routes
 routes.get('/api', ApiController.index);
 
