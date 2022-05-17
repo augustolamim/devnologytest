@@ -1,0 +1,587 @@
+[
+ {
+   "NAME": "Apple MacBook Pro 13\" Space Gray",
+   "PRICE": "295,99",
+   "DESCRIPTION": "Apple MacBook Pro 13\" Space Gray, Core i5 2,3GHz, 8GB, 128GB SSD, Iris Plus 640, ENG"
+ },
+ {
+   "NAME": "ThinkPad X240",
+   "PRICE": "299,00",
+   "DESCRIPTION": "12,5\", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit"
+ },
+ {
+   "NAME": "Hewlett Packard ProBook 640 G3",
+   "PRICE": "299,00",
+   "DESCRIPTION": "Hewlett Packard ProBook 640 G3, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "Dell Latitude 5480",
+   "PRICE": "306,99",
+   "DESCRIPTION": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "MSI GL62VR 7RFX",
+   "PRICE": "321,94",
+   "DESCRIPTION": "MSI GL62VR 7RFX, 15,6\" FHD, Core i7-7700HQ, 8GB, 1TB + 256GB SSD, GeForce GTX 1060 3GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Toshiba Portege Z30-C-16K Grey",
+   "PRICE": "356,49",
+   "DESCRIPTION": "Toshiba Portege Z30-C-16K Grey, 13,3\" FHD, Core i5-6200U, 8GB, 256GB SSD, 4G, Windows 10 Pro"
+ },
+ {
+   "NAME": "Dell XPS 13",
+   "PRICE": "364,46",
+   "DESCRIPTION": "13,3\" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8,1"
+ },
+ {
+   "NAME": "Hewlett Packard Spectre 13-v106na Dark Ash Silver",
+   "PRICE": "372,70",
+   "DESCRIPTION": "Hewlett Packard Spectre 13-v106na Dark Ash Silver, 13,3\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "Dell Latitude 5480",
+   "PRICE": "379,94",
+   "DESCRIPTION": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 1TB, GeForce GT930MX, Windows 10 Pro"
+ },
+ {
+   "NAME": "Apple MacBook Air 13\"",
+   "PRICE": "379,95",
+   "DESCRIPTION": "Apple MacBook Air 13\", i5 1,8GHz, 8GB, 256GB SSD, Intel HD 6000, ENG"
+ },
+ {
+   "NAME": "Asus ROG Strix GL753VE-GC096T",
+   "PRICE": "391,48",
+   "DESCRIPTION": "Asus ROG Strix GL753VE-GC096T, 17,3\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home, Eng kbd"
+ },
+ {
+   "NAME": "ThinkPad X230",
+   "PRICE": "393,88",
+   "DESCRIPTION": "12,5\", Core i5 2,6GHz, 8GB, 180GB SSD, Win7 Pro 64bit"
+ },
+ {
+   "NAME": "Asus ZenBook UX530UX-FY040T Blue",
+   "PRICE": "399,00",
+   "DESCRIPTION": "Asus ZenBook UX530UX-FY040T Blue, 15,6\" FHD, Core i7-7500U, 8GB, 512GB SSD, GeForce GTX950M 2GB, Windows 10 Home, Eng kbd"
+ },
+ {
+   "NAME": "Dell Latitude 5480",
+   "PRICE": "399,99",
+   "DESCRIPTION": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux"
+ },
+ {
+   "NAME": "Asus VivoBook Pro 15 N580VN-FI006T Gold Metal",
+   "PRICE": "404,23",
+   "DESCRIPTION": "Asus VivoBook Pro 15 N580VN-FI006T Gold Metal, 15,6\" UHD, Core i7-7700HQ, 16GB, 1TB + 256GB SSD, GeForce MX150 2GB, Windows 10 Home, Eng kbd"
+ },
+ {
+   "NAME": "ThinkPad Yoga",
+   "PRICE": "408,98",
+   "DESCRIPTION": "12,5\" Touch, Core i5 4200U, 8GB, 500GB + 16GB SSD Cache, Windows"
+ },
+ {
+   "NAME": "Acer Predator Helios 300 (PH317-51)",
+   "PRICE": "409,63",
+   "DESCRIPTION": "Acer Predator Helios 300 (PH317-51), 17,3\" FHD IPS, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Lenovo IdeaPad Miix 510 Platinum Silver",
+   "PRICE": "410,46",
+   "DESCRIPTION": "Lenovo IdeaPad Miix 510 Platinum Silver, 12,2\" IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro"
+ },
+ {
+   "NAME": "Toshiba Portege X30-D-10J Black/Blue",
+   "PRICE": "410,66",
+   "DESCRIPTION": "Toshiba Portege X30-D-10J Black/Blue, 13,3\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "Lenovo Yoga 910 Grey",
+   "PRICE": "416,99",
+   "DESCRIPTION": "Lenovo Yoga 910 Grey, 13,9\" FHD Touch, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "MSI GL62M 7REX2",
+   "PRICE": "433,30",
+   "DESCRIPTION": "MSI GL62M 7REX2, 15,6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Acer Predator Helios 300 (PH317-51)",
+   "PRICE": "436,29",
+   "DESCRIPTION": "Acer Predator Helios 300 (PH317-51), 17,3\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD +1TB, GeForce GTX 1050Ti 4GB, Linux + Windows 10 Home"
+ },
+ {
+   "NAME": "MSI GL62M 7REX",
+   "PRICE": "436,29",
+   "DESCRIPTION": "MSI GL62M 7REX, 15,6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Dell Latitude 5480",
+   "PRICE": "439,73",
+   "DESCRIPTION": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "MSI GS63 7RD Stealth",
+   "PRICE": "454,62",
+   "DESCRIPTION": "MSI GS63 7RD Stealth, 15,6\" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, DOS + Windows 10 Home"
+ },
+ {
+   "NAME": "ThinkPad T540p",
+   "PRICE": "454,73",
+   "DESCRIPTION": "15,6\", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit"
+ },
+ {
+   "NAME": "Dell Latitude 5580",
+   "PRICE": "457,38",
+   "DESCRIPTION": "Dell Latitude 5580, 15,6\" FHD, Core i5-7300U, 16GB, 256GB SSD, Linux + Windows 10 Home"
+ },
+ {
+   "NAME": "Acer TravelMate P645-S-511A Black",
+   "PRICE": "465,95",
+   "DESCRIPTION": "Acer TravelMate P645-S-511A Black, 14\" FHD IPS, Core i5-5200U, 8GB, 256GB SSD, 3G, Windows 10 Pro"
+ },
+ {
+   "NAME": "Toshiba Portege Z30-C-16L Grey",
+   "PRICE": "468,56",
+   "DESCRIPTION": "Toshiba Portege Z30-C-16L Grey, 13,3\" FHD, Core i7-6500U, 8GB, 256GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "Lenovo Yoga 720 Grey",
+   "PRICE": "469,10",
+   "DESCRIPTION": "Lenovo Yoga 720 Grey, 15,6\" FHD IPS, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Lenovo Legion Y520-15IKBM",
+   "PRICE": "484,23",
+   "DESCRIPTION": "Lenovo Legion Y520-15IKBM, 15,6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB, GeForce GTX 1060 Max-Q 6GB, DOS"
+ },
+ {
+   "NAME": "MSI GP62M 7RDX Leopard",
+   "PRICE": "485,90",
+   "DESCRIPTION": "MSI GP62M 7RDX Leopard, 15,6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Dell Latitude 5580",
+   "PRICE": "487,80",
+   "DESCRIPTION": "Dell Latitude 5580, 15,6\" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "Dell Inspiron 15 (7567) Black",
+   "PRICE": "488,64",
+   "DESCRIPTION": "Dell Inspiron 15 (7567) Black, 15,6\" FHD, Core i7-7700HQ, 8GB, 1TB, GeForce GTX 1050 Ti 4GB, Linux + Windows 10 Home"
+ },
+ {
+   "NAME": "Dell Latitude 5480",
+   "PRICE": "488,78",
+   "DESCRIPTION": "Dell Latitude 5480, 14\" FHD, Core i5-7440HQ, 8GB, 256GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "Acer Nitro 5 AN515-51",
+   "PRICE": "494,71",
+   "DESCRIPTION": "Acer Nitro 5 AN515-51, 15,6\" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD +1TB, GeForce GTX 1050 Ti 4GB, Windows 10 Home + Windows 10 Home"
+ },
+ {
+   "NAME": "Asus AsusPro Advanced BU401LA-FA271G Dark Grey",
+   "PRICE": "497,17",
+   "DESCRIPTION": "Asus AsusPro Advanced BU401LA-FA271G Dark Grey, 14\", Core i5-4210U, 4GB, 128GB SSD, Win7 Pro 64bit, ENG"
+ },
+ {
+   "NAME": "Lenovo Legion Y520",
+   "PRICE": "498,23",
+   "DESCRIPTION": "Lenovo Legion Y520, 15,6\" FHD, Core i7-7700HQ, 8GB, 128 GB SSD + 1TB HDD, GTX 1050 4GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Dell Latitude 5480",
+   "PRICE": "520,99",
+   "DESCRIPTION": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 500GB, Windows 10 Pro"
+ },
+ {
+   "NAME": "Dell Inspiron 17 2in1 (7779) Silver",
+   "PRICE": "564,98",
+   "DESCRIPTION": "Dell Inspiron 17 2in1 (7779) Silver, 17,3\" FHD Touch, Core i5-7200U, 12GB, 1TB, GeForce GT940MX 2GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Acer Predator Helios 300 (PH317-51)",
+   "PRICE": "577,99",
+   "DESCRIPTION": "Acer Predator Helios 300 (PH317-51), 17,3\" FHD IPS, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050Ti 4GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Acer Aspire 7 A715-71G",
+   "PRICE": "581,99",
+   "DESCRIPTION": "Acer Aspire 7 A715-71G, 15,6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB HDD, GTX 1050 Ti 4GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Toshiba Portege Z30-C-16J Grey",
+   "PRICE": "609,99",
+   "DESCRIPTION": "Toshiba Portege Z30-C-16J Grey, 13,3\" FHD, Core i5-6200U, 8GB, 256GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "Dell Latitude 5480",
+   "PRICE": "679,00",
+   "DESCRIPTION": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 500GB, Linux + Windows 10 Home"
+ },
+ {
+   "NAME": "Lenovo Legion Y520-15IKBM",
+   "PRICE": "679,00",
+   "DESCRIPTION": "Lenovo Legion Y520-15IKBM, Black, 15,6\" FHD IPS, Core i5-7300HQ, 8 GB, 128GB SSD + 2 TB HDD, NVIDIA GeForce GTX 1060 6 GB, FreeDOS + Windows 10 Home"
+ },
+ {
+   "NAME": "Dell Latitude 5280",
+   "PRICE": "729,00",
+   "DESCRIPTION": "Dell Latitude 5280, 12,5\" HD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "Asus ROG Strix GL553VD-DM535T",
+   "PRICE": "739,99",
+   "DESCRIPTION": "Apple MacBook Air 13,3\", Core i5 1,8GHz, 8GB, 128GB SSD, Intel HD 4000, RUS"
+ },
+ {
+   "NAME": "MSI GL72M 7RDX",
+   "PRICE": "745,99",
+   "DESCRIPTION": "Asus ROG Strix GL553VD-DM535T, 15,6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home, Eng kbd"
+ },
+ {
+   "NAME": "MSI GL72M 7RDX",
+   "PRICE": "799,00",
+   "DESCRIPTION": "MSI GL72M 7RDX, 17,3\" FHD, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Dell Inspiron 15 (7567) Black",
+   "PRICE": "809,00",
+   "DESCRIPTION": "Dell Inspiron 15 (7567) Black, 15,6\" FHD, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 4GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Lenovo ThinkPad L460",
+   "PRICE": "899,00",
+   "DESCRIPTION": "Lenovo ThinkPad L460, 14\" FHD IPS, Core i7-6600U, 8GB, 256GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "ThinkPad Yoga",
+   "PRICE": "999,00",
+   "DESCRIPTION": "12,5\" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,"
+ },
+ {
+   "NAME": "Lenovo ThinkPad L570",
+   "PRICE": "1.033,99",
+   "DESCRIPTION": "Lenovo ThinkPad L570, 15,6\" FHD, Core i7-7500U, 8GB, 256GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "Asus ROG STRIX GL553VD-DM256",
+   "PRICE": "1.096,02",
+   "DESCRIPTION": "Asus ROG STRIX GL553VD-DM256, 15,6\" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS + Windows 10 Home"
+ },
+ {
+   "NAME": "Acer Nitro 5 AN515-51",
+   "PRICE": "1.098,42",
+   "DESCRIPTION": "Acer Nitro 5 AN515-51, 15,6\" FHD IPS, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Inspiron 15",
+   "PRICE": "1.099,00",
+   "DESCRIPTION": "Moon Silver, 15,6\", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,"
+ },
+ {
+   "NAME": "Asus ROG STRIX GL553VD-DM256",
+   "PRICE": "1.099,00",
+   "DESCRIPTION": "Asus ROG STRIX GL553VD-DM256, 15,6\" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS"
+ },
+ {
+   "NAME": "ProBook",
+   "PRICE": "1.101,83",
+   "DESCRIPTION": "14\", Core i5 2,6GHz, 4GB, 500GB, Win7 Pro 64bit"
+ },
+ {
+   "NAME": "Asus VivoBook S14",
+   "PRICE": "1.102,66",
+   "DESCRIPTION": "Asus VivoBook S14 (S406UA-BV041T) Starry Grey, 14\", Core i5-8250U, 8GB, 256GB SSD, Windows 10 Home, Eng kbd"
+ },
+ {
+   "NAME": "Dell Inspiron 15",
+   "PRICE": "1.110,14",
+   "DESCRIPTION": "Dell Inspiron 15 (5567) Fog Gray, 15,6\" FHD, Core i5-7200U, 8GB, 1TB, Radeon R7 M445 4GB, Linux"
+ },
+ {
+   "NAME": "Acer Aspire A515-51-5654",
+   "PRICE": "1.112,91",
+   "DESCRIPTION": "Acer Aspire A515-51-5654, Black, 15,6\", FHD, Core i5-8250U, 8GB DDR4, 256GB SSD, Windows 10 Home, ENG"
+ },
+ {
+   "NAME": "Pavilion",
+   "PRICE": "1.114,55",
+   "DESCRIPTION": "15,6\", Core i5-4200U, 6GB, 750GB, Windows 8,1"
+ },
+ {
+   "NAME": "HP 350 G1",
+   "PRICE": "1.123,87",
+   "DESCRIPTION": "15,6\", Core i5-4200U, 4GB, 750GB, Radeon HD8670M 2GB, Windows"
+ },
+ {
+   "NAME": "Aspire E1-572G",
+   "PRICE": "1.123,87",
+   "DESCRIPTION": "15,6\", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8,1"
+ },
+ {
+   "NAME": "Acer Spin 5",
+   "PRICE": "1.124,20",
+   "DESCRIPTION": "Acer Spin 5 SP513-51 Black, 13,3\" FHD Touch, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "HP 250 G3",
+   "PRICE": "1.133,82",
+   "DESCRIPTION": "15,6\", Core i5-4210U, 4GB, 500GB, Windows 8,1"
+ },
+ {
+   "NAME": "Lenovo V510 Black",
+   "PRICE": "1.133,91",
+   "DESCRIPTION": "Lenovo V510 Black, 15,6\" FHD, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "Dell Vostro 15 (3568) Red",
+   "PRICE": "1.139,54",
+   "DESCRIPTION": "Dell Vostro 15 (3568) Red, 15,6\" HD, Core i5-7200U, 4GB, 1TB, Radeon R5 M420 2GB, Linux"
+ },
+ {
+   "NAME": "Acer Aspire 3 A315-51 Black",
+   "PRICE": "1.140,62",
+   "DESCRIPTION": "Acer Aspire 3 A315-51 Black, 15,6\" FHD, Core i3-7100U, 4GB, 500GB + 128GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "Dell Vostro 15",
+   "PRICE": "1.143,40",
+   "DESCRIPTION": "Dell Vostro 15 (3568) Black, 15,6\" FHD, Core i5-7200U, 4GB, 128GB SSD, Radeon R5 M420 2GB, Linux"
+ },
+ {
+   "NAME": "Acer Swift 1 SF113-31 Silver",
+   "PRICE": "1.144,20",
+   "DESCRIPTION": "Acer Swift 1 SF113-31 Silver, 13,3\" FHD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "Lenovo V510 Black",
+   "PRICE": "1.144,40",
+   "DESCRIPTION": "Lenovo V510 Black, 15,6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "Lenovo V510 Black",
+   "PRICE": "1.149,00",
+   "DESCRIPTION": "Lenovo V510 Black, 14\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "Acer Aspire ES1-572 Black",
+   "PRICE": "1.149,00",
+   "DESCRIPTION": "Acer Aspire ES1-572 Black, 15,6\" HD, Core i5-7200U, 4GB, 128GB SSD, Linux"
+ },
+ {
+   "NAME": "Acer Aspire ES1-572 Black",
+   "PRICE": "1.149,73",
+   "DESCRIPTION": "Acer Aspire ES1-572 Black, 15,6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "Asus VivoBook 15 X540UA-DM260 Chocolate Black",
+   "PRICE": "1.154,04",
+   "DESCRIPTION": "Asus VivoBook 15 X540UA-DM260 Chocolate Black, 15,6\" FHD, Core i3-6006U, 4GB, 256GB SSD, Endless OS, En kbd"
+ },
+ {
+   "NAME": "Lenovo V110-15IKB",
+   "PRICE": "1.170,10",
+   "DESCRIPTION": "Lenovo V110-15IKB, 15,6\" HD, Core i5-7200U, 4GB, 500GB, DOS"
+ },
+ {
+   "NAME": "Acer Aspire A315-51-33TG",
+   "PRICE": "1.178,19",
+   "DESCRIPTION": "Acer Aspire A315-51-33TG, Black 15,6\" HD, Core i3-7100U, 4GB DDR4, 128GB SSD, Windows 10 Home, ENG"
+ },
+ {
+   "NAME": "Lenovo V110-15ISK",
+   "PRICE": "1.178,99",
+   "DESCRIPTION": "Lenovo V110-15ISK, 15,6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "Acer Aspire ES1-572 Black",
+   "PRICE": "1.179,00",
+   "DESCRIPTION": "Acer Aspire ES1-572 Black, 15,6\" HD, Core i5-7200U, 4GB, 500GB, Linux"
+ },
+ {
+   "NAME": "Acer Extensa 15 (2540) Black",
+   "PRICE": "1.187,88",
+   "DESCRIPTION": "Acer Extensa 15 (2540) Black, 15,6\" HD, Core i5-7200U, 4GB, 500GB, Linux"
+ },
+ {
+   "NAME": "Acer Aspire ES1-572 Black",
+   "PRICE": "1.187,98",
+   "DESCRIPTION": "Acer Aspire ES1-572 Black, 15,6\" HD, Core i3-6006U, 4GB, 500GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Asus EeeBook R416NA-FA014T",
+   "PRICE": "1.199,00",
+   "DESCRIPTION": "Asus EeeBook R416NA-FA014T, 14\" FHD, Pentium N4200, 4GB, 128GB eMMC, Windows 10 Home, Eng kbd"
+ },
+ {
+   "NAME": "Acer Aspire 3 A315-51",
+   "PRICE": "1.199,00",
+   "DESCRIPTION": "Acer Aspire 3 A315-51, 15,6\" HD, Core i3-6006U, 4GB, 1TB, Windows 10 Home"
+ },
+ {
+   "NAME": "Packard 255 G2",
+   "PRICE": "1.199,73",
+   "DESCRIPTION": "15,6\", AMD E2-3800 1,3GHz, 4GB, 500GB, Windows 8,1"
+ },
+ {
+   "NAME": "Asus VivoBook 15 X540NA-GQ026T",
+   "PRICE": "1.203,41",
+   "DESCRIPTION": "Asus VivoBook 15 X540NA-GQ026T Chocolate Black, 15,6\" HD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd"
+ },
+ {
+   "NAME": "Acer Aspire ES1-732 Black",
+   "PRICE": "1.212,16",
+   "DESCRIPTION": "Acer Aspire ES1-732 Black, 17,3\" HD+, Celeron, N3350, 4GB, 1TB, Windows 10 Home"
+ },
+ {
+   "NAME": "Lenovo V110-15ISK",
+   "PRICE": "1.221,58",
+   "DESCRIPTION": "Lenovo V110-15ISK, 15,6\" HD, Core i3-6006U, 8GB, 128GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "Acer Aspire 3 A315-31 Black",
+   "PRICE": "1.223,99",
+   "DESCRIPTION": "Acer Aspire 3 A315-31 Black, 15,6\" HD, Pentium N4200 1,1GHz, 4GB, 128GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "Lenovo ThinkPad E31-80",
+   "PRICE": "1.235,49",
+   "DESCRIPTION": "Lenovo ThinkPad E31-80, 13,3\" HD, Celeron 3855U 1,6GHz, 4GB, 128GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "Asus VivoBook E502NA-GO022T Dark Blue",
+   "PRICE": "1.238,37",
+   "DESCRIPTION": "Asus VivoBook E502NA-GO022T Dark Blue, 15,6\" HD, Pentium N4200 1,1GHz, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd"
+ },
+ {
+   "NAME": "Asus VivoBook Max",
+   "PRICE": "1.239,20",
+   "DESCRIPTION": "Asus VivoBook Max X541NA-GQ041 Black Chocolate, 15,6\" HD, Pentium N4200 1,1GHz, 4GB, 500GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Acer Aspire 3 A315-21",
+   "PRICE": "1.244,99",
+   "DESCRIPTION": "Acer Aspire 3 A315-21, 15,6\", AMD A4-9120, 4GB, 128GB SSD, Linux"
+ },
+ {
+   "NAME": "Acer Aspire 3 A315-31 Black",
+   "PRICE": "1.259,00",
+   "DESCRIPTION": "Acer Aspire 3 A315-31 Black, 15,6\" HD, Pentium N4200 1,1GHz, 4GB, 128GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "Acer Aspire ES1-572 Black",
+   "PRICE": "1.260,13",
+   "DESCRIPTION": "Acer Aspire ES1-572 Black, 15,6\" HD, Core i3-6006U, 4GB, 128GB SSD, Linux"
+ },
+ {
+   "NAME": "Acer Aspire A315-31-C33J",
+   "PRICE": "1.271,06",
+   "DESCRIPTION": "Acer Aspire A315-31-C33J Black 15,6\", HD, Celeron N3350, 4GB DDR3L, 128GB, Windows 10 Home, ENG"
+ },
+ {
+   "NAME": "Acer Aspire 3 A315-31 Black",
+   "PRICE": "1.273,11",
+   "DESCRIPTION": "Acer Aspire 3 A315-31 Black, 15,6\" HD, Celeron N3350 1,1GHz, 4GB, 128GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "Hewlett Packard 250 G6 Dark Ash Silver",
+   "PRICE": "1.281,99",
+   "DESCRIPTION": "Hewlett Packard 250 G6 Dark Ash Silver, 15,6\" HD, Celeron N3060 1,6GHz, 4GB, 128GB SSD, DOS"
+ },
+ {
+   "NAME": "Lenovo V110-15IAP",
+   "PRICE": "1.294,74",
+   "DESCRIPTION": "Asus VivoBook 15 X540NA-GQ008T Chocolate Black, 15,6\" HD, Pentium N4200, 4GB, 500GB, Windows 10 Home, En kbd"
+ },
+ {
+   "NAME": "Lenovo V110-15IAP",
+   "PRICE": "1.299,00",
+   "DESCRIPTION": "Lenovo V110-15IAP, 15,6\" HD, Celeron N3350 1,1GHz, 4GB, 128GB SSD, Windows 10 Home"
+ },
+ {
+   "NAME": "Aspire E1-510",
+   "PRICE": "1.310,39",
+   "DESCRIPTION": "15,6\", Pentium N3520 2,16GHz, 4GB, 500GB, Linux"
+ },
+ {
+   "NAME": "Prestigio SmartBook 133S Dark Grey",
+   "PRICE": "1.311,99",
+   "DESCRIPTION": "Prestigio SmartBook 133S Dark Grey, 13,3\" FHD IPS, Celeron N3350 1,1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam"
+ },
+ {
+   "NAME": "Prestigio SmartBook 133S Gold",
+   "PRICE": "1.326,83",
+   "DESCRIPTION": "Prestigio SmartBook 133S Gold, 13,3\" FHD IPS, Celeron N3350 1,1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam"
+ },
+ {
+   "NAME": "Asus VivoBook X441NA-GA190",
+   "PRICE": "1.333,00",
+   "DESCRIPTION": "Asus VivoBook X441NA-GA190 Chocolate Black, 14\", Celeron N3450, 4GB, 128GB SSD, Endless OS, ENG kbd"
+ },
+ {
+   "NAME": "Asus ROG Strix SCAR Edition GL503VM-ED115T",
+   "PRICE": "1.337,28",
+   "DESCRIPTION": "Asus ROG Strix SCAR Edition GL503VM-ED115T, 15,6\" FHD 120Hz, Core i7-7700HQ, 16GB, 256GB SSD + 1TB SSHD, GeForce GTX 1060 6GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Asus ROG Strix GL702ZC-GC209T",
+   "PRICE": "1.338,37",
+   "DESCRIPTION": "Asus ROG Strix GL702ZC-GC209T, 17,3\" FHD IPS, Ryzen 7 1700, 16GB, 256GB SSD + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Asus ROG Strix GL702ZC-GC154T",
+   "PRICE": "1.341,22",
+   "DESCRIPTION": "Asus ROG Strix GL702ZC-GC154T, 17,3\" FHD, Ryzen 7 1700, 16GB, 256GB + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home"
+ },
+ {
+   "NAME": "Lenovo Legion Y720",
+   "PRICE": "1.347,78",
+   "DESCRIPTION": "Lenovo Legion Y720, 15,6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard"
+ },
+ {
+   "NAME": "Asus ROG Strix GL702VM-GC146T",
+   "PRICE": "1.349,23",
+   "DESCRIPTION": "Asus ROG Strix GL702VM-GC146T, 17,3\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1060 3GB, Windows 10 Home, Eng kbd"
+ },
+ {
+   "NAME": "Asus ASUSPRO B9440UA-GV0279R Gray",
+   "PRICE": "1.362,24",
+   "DESCRIPTION": "Asus ASUSPRO B9440UA-GV0279R Gray, 14\" FHD, Core i7-7500U, 16GB, 512GB SSD, Windows 10 Pro, Eng kbd"
+ },
+ {
+   "NAME": "Toshiba Portege X20W-D-10V Black/Blue",
+   "PRICE": "1.366,32",
+   "DESCRIPTION": "Toshiba Portege X20W-D-10V Black/Blue, 12,5\" FHD Touch, Core i7-7500U, 8GB, 512GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "Lenovo ThinkPad Yoga 370 Black",
+   "PRICE": "1.381,13",
+   "DESCRIPTION": "Lenovo ThinkPad Yoga 370 Black, 13,3\" FHD IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro"
+ },
+ {
+   "NAME": "Apple MacBook Air 13\"",
+   "PRICE": "1.399,00",
+   "DESCRIPTION": "Apple MacBook Air 13\", Intel Core i5 1,8GHz, 8GB, 256GB SSD, Intel HD 6000, RUS"
+ },
+ {
+   "NAME": "Lenovo ThinkPad T470",
+   "PRICE": "1.399,00",
+   "DESCRIPTION": "Lenovo ThinkPad T470, 14\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro"
+ },
+ {
+   "NAME": "Dell Latitude 5480",
+   "PRICE": "1.769,00",
+   "DESCRIPTION": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux + Windows 10 Home"
+ },
+ {
+   "NAME": "Dell Latitude 5580",
+   "PRICE": "1.769,00",
+   "DESCRIPTION": "Dell Latitude 5580, 15,6\" FHD, Core i7-7600U, 16GB, 256GB SSD, GeForce GT930MX, Linux"
+ },
+ {
+   "NAME": "Dell Latitude 5580",
+   "PRICE": "1.799,00",
+   "DESCRIPTION": "Dell Latitude 5580, 15,6\" FHD, Core i7-7600U, 8GB, 256GB SSD, GeForce GT930MX, Windows 10 Pro"
+ }
+]

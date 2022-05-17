@@ -1,0 +1,79 @@
+{
+    "openapi":"3.0.0",
+    "info":{
+        "title":"ApiTeste",
+        "description": "Api para o teste da empresa",
+        "contact": {
+            "email": "augustocesarlamim@gmail.com",
+            "name": "augusto"
+        },
+        "version":"1.0.0"
+    },
+    "paths":{        
+        "/api":{            
+            "get":{
+                "tags":[
+                    "ApiController"
+                ],
+                "summary": "Show list of notebooks",
+                "description":"show the list of notebooks scrapped from an website and ordered by price",                
+                  "responses":{
+                      "200":{
+                          "description": "List of notebooks",
+                          "content":{
+                              "application/json":{
+                                  "schema":{
+                                      "type":"object",
+                                      "properties":{                                        
+                                        "name":{
+                                            "type": "string"
+                                        },
+                                        "price":{
+                                            "type": "string"
+                                        },
+                                        "description": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "example": [
+                                        {
+                                            "name": "ThinkPad X230",
+                                            "price": "1244.99",
+                                            "description": "12.5\", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit"
+                                        },
+                                        {
+                                            "name": "Packard 255 G2",
+                                            "price": "416.99",
+                                            "description": "15.6\", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1"
+                                        }
+                                    ]
+                                  }
+                              }
+                          }
+                      },
+                    "500":{
+                        "description": "Error",
+                        "content":{
+                            "application/json":{
+                                "schema":{
+                                    "type":"object",
+                                    "properties":{
+                                        "error":{
+                                            "type": "string"
+                                        },
+                                        "stack":{
+                                            "type": "string"
+                                        },
+                                        "local":{
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                  }
+            }
+        }
+    }    
+}
